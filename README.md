@@ -12,5 +12,4 @@ It was used for the plots of this publication: http://adsabs.harvard.edu/abs/201
 ​You are encouraged to acknowledge the use of this code if you use the contents of this repository.​Please contact me in case you had questions.
 
 
-Dependencies:
-Python modules: numpy, scipy, matplotlib, math
+# Python modules: numpy, scipy, matplotlib, math
