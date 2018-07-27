@@ -10,3 +10,7 @@ It was used for the plots of this publication: http://adsabs.harvard.edu/abs/201
 
 
 ​You are encouraged to acknowledge the use of this code.​
+
+Dependencies
+
+Python modules: numpy, scipy, matplotlib, math
